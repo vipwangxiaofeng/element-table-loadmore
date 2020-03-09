@@ -1,0 +1,11 @@
+{
+  "name": "element-table-loadmore",
+  "version": "1.0.0",
+  "description": "element-ui table loadmore",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wangxiaofeng",
+  "license": "ISC"
+}
